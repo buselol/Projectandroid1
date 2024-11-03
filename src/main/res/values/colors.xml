@@ -1,0 +1,11 @@
+
+<resources>
+
+    <color name="background_color">#FFFFFF</color>
+
+
+    <color name="high_contrast_text">#000000</color>
+
+
+    <color name="hint_color">#757575</color>
+</resources>
